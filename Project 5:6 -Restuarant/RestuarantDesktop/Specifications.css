@@ -1,0 +1,282 @@
+body{
+	background: url("Images/brickwall2.jpeg");
+	padding: 0;
+	margin: 0 auto;
+	
+}	
+
+#Maincontainer{
+	background-color:#006837;
+		height: 160px;
+	
+}
+
+#Maincontainer p{
+	color:#cca737;
+	font-size: 45pt; 
+    margin: 0 auto;
+	text-align: center;
+	font-weight: bold;
+	font-family: 'Bree Serif', serif;
+
+	
+}
+
+#Maincontainer2{
+	background-color: black;
+	height: 62px;
+		
+}
+
+#Maincontainer2 ul{
+	list-style-type: none;
+	display: inline;
+	margin: 0;
+	padding: 0;
+}
+
+#Maincontainer2 ul li{
+	display: inline;
+	color: #FFFFFF;
+	margin-left: 200px;
+	padding-left:-100px;
+	font-size: 23px;
+    font-family: 'Crimson Text', serif;
+}
+
+#Maincontainer2 ul li a{
+	text-decoration: none;
+    color: #ffffff;
+    margin: 0;
+
+}
+
+#Maincontainer2 ul li a:hover{  
+	color: #006837;
+	transition: color 1s;
+}
+
+#Maincontainer2 ul li a:active{
+	color: #44865F;
+	transition: color 2s;
+
+}
+
+#Maincontainer2 ul li a:visted{
+	color: #720000;
+	transition: color 1s;
+}
+
+#MainContainer3{
+	background-color: #FFFFFF;
+	width: 1100px;
+	height: 5300px;
+	margin: 0 auto;
+
+	}
+
+.ProductContainer img{
+	width: 70%;
+	margin: 0 auto;
+	display:block;
+	
+}
+
+.ProductContainer p{
+	color:#000000;
+	font-size: 35pt;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+	font-family: 'Crimson Text', serif;
+}
+
+
+.ProductContainer2 p{
+	font-size:25pt;
+	color: #000000;
+	font-weight: bold;
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+}
+
+
+.ProductContainer3 p{
+	color: #000000;
+	font-size: 15pt; 
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+
+}
+
+
+
+.ProductContainer4 img{
+	width: 25%;
+	margin-left: 190px;
+	display: inline;
+	position:relative;
+}	
+
+.ProductContainer4 p{
+	color: #000000;
+	font-size: 25pt;
+	margin-left: 670px;
+	top: 2280px;
+	position: absolute;
+	font-weight: bold;
+	font-family: 'Playfair Display', serif;
+}
+
+.ProductContainer5 p{
+	color: #000000;
+	font-size: 15pt;
+	margin-left: 405px;
+	bottom: 300px;
+	position: relative;
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+
+}
+
+
+.ProductContainer6 p{
+	color: #000000;
+	font-size: 25pt; 
+    margin: 0 auto;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Playfair Display', serif;
+}
+
+.ProductContainer7 p{
+	color: #000000;
+	font-size: 15pt;
+	margin-left: 120px;
+	text-align: center;
+	top: 2950px;
+	position: absolute;
+	font-family: 'Playfair Display', serif;
+	
+}
+
+.ProductContainer8 p{
+	color: #000000;
+	font-size: 25pt; 
+    margin: 0 auto;
+    margin-left:507px;
+    bottom: -3000px;
+    position:absolute;
+    font-weight: bold;
+    font-family: 'Playfair Display', serif;
+}
+
+.ProductContainer9 img{
+	width: 70%;
+	margin: 0 auto;
+	display:block;
+
+}
+
+.ProductContainer10 p{
+	font-size:17pt;
+	color: #000000;
+	font-weight: bold;
+	bottom: -3100px;
+	position: absolute;
+	margin-left: 180px;
+	font-family: 'Playfair Display', serif;
+	
+}
+
+.ProductContainer11 p{
+	font-size:13.5pt;
+	color:#000000;
+	bottom: -3370px;
+	position: absolute;
+	margin-left: 180px;
+	font-family: 'Playfair Display', serif;
+	
+
+}
+
+.ProductContainer12 p{
+	font-size:17pt;
+	color: #000000;
+	font-weight: bold;
+	bottom: -3560px;
+	position: absolute;
+	margin-left: 180px;
+	font-family: 'Playfair Display', serif;
+}
+
+.ProductContainer13 p{
+	font-size:13.5pt;
+	color:#000000;
+	bottom: -3995px;
+	position: absolute;
+	margin-left: 180px;
+	font-family: 'Playfair Display', serif;
+}
+
+.ProductContainer14 p{
+	font-size:17pt;
+	color: #000000;
+	font-weight: bold;
+	bottom: -3100px;
+	position: absolute;
+	margin-left: 780px;
+	font-family: 'Playfair Display', serif;
+}
+
+
+.ProductContainer15 p{
+	font-size:13.5pt;
+	color: #000000;
+	bottom: -3486px;
+	position: absolute;
+	margin-left: 650px;
+	font-family: 'Playfair Display', serif;
+}
+
+
+.ProductContainer16 p{
+	font-size:17pt;
+	color: #000000;
+	font-weight: bold;
+	bottom: -3560px;
+	position: absolute;
+	margin-left: 780px;
+	font-family: 'Playfair Display', serif;
+}
+
+.ProductContainer17 p{
+	font-size:13.5pt;
+	color: #000000;
+	bottom: -3960px;
+	position: absolute;
+	margin-left: 750px;
+	font-family: 'Playfair Display', serif;
+}
+
+.ProductContainer18 p{
+	color: #de0016;
+	font-size: 25pt; 
+    margin: 0 auto;
+    text-align: center;
+    bottom: -4210px;
+	position: absolute;
+	margin-left: 250px;
+	font-weight: bold;
+	font-family: 'Playfair Display', serif;
+}
+
+.ProductContainer18 a img{
+	width: 30%;
+	margin: 0 auto;
+	display: block;
+	bottom: -4550px;
+	position: absolute;
+	margin-left: 320px;
+}

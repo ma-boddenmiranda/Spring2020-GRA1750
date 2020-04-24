@@ -1,0 +1,376 @@
+@charset "UTF-8";
+/* CSS Document */
+Body{
+	background-color: darkblue;
+	margin: 0 auto;
+	padding: 0 ;
+	height: 5130px;
+}
+
+.Header1{
+	background-color: #FFFFFF;
+	height:41px;
+}
+
+#Distribution img{
+	width: 13%;
+	display: block;
+	margin-left: 90px;
+}
+
+#Socials img{
+	width:10%;
+	display: block;
+	position: absolute;
+	margin-left: 1200px;
+	top:30px;
+}
+
+#Navigation {
+	background-color: darkblue;
+	height: 25px;
+
+}
+
+#Navigation p{
+	font-weight: bold;
+	color: white;
+	margin-left: 90px;
+	font-size: 16pt;
+	display: inline;
+	font-family: 'Catamaran', sans-serif;
+	line-height: 1px;
+	
+}
+#Navigation ul{
+	list-style-type:none;
+	display: inline;
+}
+
+#Navigation ul li{
+	display: inline;
+	margin-left: 210px;
+	margin-right: -100px;
+	font-size: 12pt;
+	font-weight: lighter;
+	font-family: 'Catamaran', sans-serif;
+	color: white;
+	
+}
+
+
+#Navigation ul li a {
+	text-decoration: none;
+	font-weight:lighter;
+	color: white;
+}
+
+#Navigation ul li a:hover{
+	color:yellow;
+	transition: color 2s;
+}
+
+#MainContainer{
+	background-color: white;
+	height: 4900px;
+	margin: 0 auto;
+	padding:0;
+}
+
+.ProductContainer img{
+	width: 100%;
+
+		
+}
+
+	
+.ProductContainer1 img{
+	height: 550px;
+	display: inline;
+	margin-left: 100px;
+	margin-top: 70px;
+	padding-top: 150px;
+	margin-bottom: 200px;
+}
+.ProductContainer2 p {
+	font-size: 16pt;
+	font-weight: bold;
+	font-family: 'Catamaran', sans-serif;
+	margin-left: 860px;
+    position: absolute;
+	top: 950px;
+}
+
+.ProductContainer3 p{
+	font-family: 'Catamaran', sans-serif;
+	font-size: 12pt;
+	font-weight: normal;
+	text-align: center;
+	position: absolute;
+	margin-left: 500px;
+	top: 1060px;
+}
+
+.ProductContainer4 p{
+	font-family: 'Catamaran', sans-serif;
+	font-size: 12pt;
+	font-weight: normal;
+	text-align: center;
+	position: absolute;
+	margin-left: 700px;
+	top: 1300px;
+	color: darkblue;
+}
+
+.ProductContainer5 p{
+	font-family: 'Catamaran', sans-serif;
+	font-size: 12pt;
+	font-weight: normal;
+	text-align: center;
+	position: absolute;
+	margin-left: 980px;
+	top: 1300px;
+	color: darkblue;
+}
+
+.ProductContainer18 p{
+	font-family: 'Catamaran', sans-serif;
+	color: black;
+	font-size: 11pt;
+	font-weight: normal;
+	font-style: italic;
+	text-align: center;
+	position: absolute;
+	margin-left: 590px;
+	top: 1450px;
+}
+
+.ProductContainer18 img{
+	width: 5%;
+	margin-left: 855px;
+	top: 1450px;
+	position: absolute;
+}
+
+#Trailer{
+	display: block;
+	
+}
+
+
+
+#Bios1 {
+	height: 300px;
+	display: inline;
+	margin-left: 100px;
+	margin-top: 200px;
+}
+
+#Bios2 {
+	height: 300px;
+	display: inline;
+	margin-left: 270px;
+	margin-top: 250px;
+}
+
+#Bios3 {
+	height: 300px;
+	display: inline;
+	margin-left: 263px;
+	margin-top: 255px;
+}
+
+
+.ProductContainer8 p {
+	font-size: 16pt;
+	font-weight: bold;
+	font-family: 'Catamaran', sans-serif;
+    text-align: center;
+	margin-left: 700px;
+    position: absolute;
+	top: 2650px;
+	
+}
+
+.ProductContainer9 p{
+	font-weight: bold;
+	font-size: 13pt;
+	font-family: 'Catamaran', sans-serif;
+	text-align: center;
+	color: darkblue;
+}
+
+#Star1 p{
+	margin-left: -1030px;
+	margin-top: -3px;
+}
+
+#Star2 p{
+	margin-left: -20px;
+	margin-top: -70px;
+}
+
+#Star3 p{
+	margin-left: 970px;
+	margin-top: -70px;
+}
+
+.ProductContainer10 p{
+	font-weight: normal;
+	font-size: 12pt;
+	font-family: 'Catamaran', sans-serif;
+	text-align: center;
+	color: black;
+}
+
+#BInfo1 p{
+	margin-left: -1015px;
+	margin-top: -25px;
+}
+
+#BInfo2 p{
+	margin-left:auto;
+	margin-top: -177px;
+}
+
+#BInfo3 p{
+	margin-top: -177px;
+	margin-left:990px;
+	
+}
+
+.ProductContainer10 a {
+	font-weight:bold;
+	color: blue;
+}
+
+.ProductContainer10 a:hover{
+	color:yellow;
+	transition: color 2s;
+}
+
+
+#MainContainer2{
+	background-color: darkblue;
+	height: 900px;
+	margin: 0 auto;
+	padding:0;
+}
+
+.ProductContainer11 p{
+	font-size:16pt;
+	color:white;
+	text-align: center;
+	margin-bottom: -50px;
+	padding-top: 60px;
+	margin-top: 120px;
+	font-weight: bold;
+	font-family: 'Catamaran', sans-serif;
+}
+
+
+.ProductContainer11 img{
+	display:inline;
+	height: 220px;
+	margin-top: 100px;
+	margin-bottom: -90px;
+	margin-left: 58px;
+}
+
+#Shop p{
+	font-size:16pt;
+	color:black;
+	text-align: center;
+	font-weight: bold;
+	font-family: 'Catamaran', sans-serif;
+	margin-top: 80px;
+	
+}
+
+#Soundtrack img{
+	height: 300px;
+	display: inline;
+	margin-left: 80px;
+	margin-top: 100px;
+}
+
+#Music p{
+	font-size:14pt;
+	color:blue;
+	margin-left: 500px;
+	font-weight: bold;
+	font-family: 'Catamaran', sans-serif;
+	margin-top: -300px;
+}
+
+
+.ProductContainer13 img{
+	width: 10%;
+	display: block;
+	padding-right: 700px;
+	margin-left: 500px;
+}
+
+.ProductContainer14 img{
+	width: 10%;
+	display: block;
+	padding-right: 700px;
+	margin-left: 500px;
+}
+
+
+#Physical img{
+	height: 300px;
+	display: block;
+	margin-left: 800px;
+	margin-top: -315px;
+	padding-bottom: 30px;
+}
+
+#DVD p{
+	font-size:14pt;
+	color:blue;
+	margin-left: 1130px;
+	font-weight: bold;
+	font-family: 'Catamaran', sans-serif;
+	margin-top: -330px;
+}
+
+.ProductContainer16 img{
+	width: 10%;
+	display: block;
+	padding-right: 100px;
+	margin-left: 1160px;
+	padding-bottom: 10px;
+ 
+}
+
+.ProductContainer17 img{
+	width: 10%;
+	display: block;
+	padding-right: 100px;
+	margin-left: 1160px;
+	padding-bottom: 10px;
+	
+}
+
+
+.ProductContainer19 p{
+	font-size:9pt;
+	color:white;
+	text-align: center;
+	margin-top: 3590px;
+	margin-left: 400px;
+	font-weight: normal;
+	font-family: 'Catamaran', sans-serif;
+}
+
+.ProductContainer19 a {
+	font-weight:bold;
+	color: white;
+}
+
+.ProductContainer19 a:hover{
+	color:yellow;
+	transition: color 2s;
+}

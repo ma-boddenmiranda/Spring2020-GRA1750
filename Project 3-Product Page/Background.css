@@ -1,0 +1,65 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: url("images/pinkdots.jpg");
+}
+
+#maincontainer{
+	/*MainContent*/
+	background-color: #ffdef0;
+	width: 900px;
+	height: 11485px;
+	margin: 0 auto;
+
+}
+
+.productcontainer{
+	background-color: #ffffff;
+	width: 700px;
+	height: 950px;
+	margin: 0 auto;
+
+}
+
+.productcontainer img{
+	width: 70%;
+	margin: 0 auto;
+	display: block;
+}
+
+.productcontainer img [alt=" ColourPop Minor in Astro Palette"]{
+	width: 100%;
+	margin: 0 auto;
+	display: block;
+}
+
+.productcontainer img [alt="All That Palette"]{
+	width: 100%;
+	margin: 0 auto;
+	display: block;
+
+}
+
+.productcontainer p{
+	color: #000000;
+	font-size: 12pts;
+	font-family: Impact;
+	padding: 0;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#siblings img + p{
+	display: block;
+	width: 100%;
+	margin: 0 auto;
+	color: #f7027d;
+	font-size: 12pts;
+}
+
+span img{
+	width:700px;
+	height:85px;
+	display: block;
+	margin: 0 auto;
+}
